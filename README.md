@@ -3,7 +3,12 @@
 ### Sujet:
 Dans le cadre du projet de Traitement automatique du texte en IA nous avons décidé de concevoir un mini moteur de recherche destiné à trouver des articles d’information à partir d’un flux RSS, dans le cas présent le journal “Le Monde” sera la source de ce flux.
 
-
+# Description des tâches
+* Parser les données du flux RSS
+* Extraire les informations pertinentes
+* Pondérer les mots clés de la recherche par rapport au jeu de données
+* Identifier l'article d'information le plus proche (distance des vecteurs)
+* Retourner le lien vers la page de l'article
 
 # Setup et utilisation
 
