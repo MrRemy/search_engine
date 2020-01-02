@@ -81,4 +81,4 @@ En effet on pourrait améliorer le modèle actuel en y intégrant l’identifica
  
 ### Note
 
-La description des tâches, les informations sur le jeu de données ainsi que les démarches d'installations et d'utilisations du projet se trouvent sur le readme.md
+La description des tâches, les informations sur le jeu de données ainsi que les démarches d'installations et d'utilisations du projet se trouvent sur le README.md
