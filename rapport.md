@@ -79,3 +79,6 @@ Dans une autre mesure il faut toutefois rappeler que même si dans l’ensemble 
 
 En effet on pourrait améliorer le modèle actuel en y intégrant l’identification des entités nommés ainsi que de la désambiguïsation (l’utilisation du Français représentant toutefois un frein à ces deux améliorations). 
  
+### Note
+
+La description des tâches, les informations sur le jeu de données ainsi que les démarches d'installations et d'utilisations du projet se trouvent sur le readme.md
