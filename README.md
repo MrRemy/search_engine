@@ -43,7 +43,7 @@ A noter que seule la première ligne du fichier input.in est prise en compte. Il
 
 Il faut alors exécuter les lignes de commandes suivantes :
 
-1.  `cd engine`
+1.  `cd core`
     
 
 2.  `Python3 search.py < input.in`
