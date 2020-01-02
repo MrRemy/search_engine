@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_retraite.xml" rel="self" type="application/rss+xml"/>
+        <category>Retraite</category>
+        <title>Le Figaro - Retraite et succession : Actualité et conseils sur les retraites, la succession et la gestion de patrimoine</title>
+        <description>Retraite : Retrouvez toute l&#039;actualité sur les retraites et conseils sur les successions, ainsi que nos outils de simulation avec Lefigaro.fr</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Sat, 21 Dec 2019 10:10:27 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <ttl>1</ttl>
+        <image>
+            <title>Le Figaro - Retraite et succession : Actualité et conseils sur les retraites, la succession et la gestion de patrimoine</title>
+            <url>http://a.f1g.fr/assets-img/i/f/m150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Retraite : Retrouvez toute l&#039;actualité sur les retraites et conseils sur les successions, ainsi que nos outils de simulation avec Lefigaro.fr</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/reforme-des-retraites-cette-cagnotte-de-30-milliards-d-euros-que-lorgnent-les-fonctionnaires-20191220</guid>
+                <title>Réforme des retraites: cette «cagnotte» de 30 milliards d’euros que lorgnent les fonctionnaires</title>
+                <link>https://www.lefigaro.fr/retraite/reforme-des-retraites-cette-cagnotte-de-30-milliards-d-euros-que-lorgnent-les-fonctionnaires-20191220</link>
+                <description>DÉCRYPTAGE - Les syndicats comptent dessus pour obtenir des revalorisations de rémunération dans la fonction publique.</description>
+                <category>Retraite</category>
+                <pubDate>Sat, 21 Dec 2019 10:10:27 +0100</pubDate>
+                <author>Guillaume Guichard</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/a-quoi-va-ressembler-le-futur-regime-universel-de-repartition-par-points-20191211</guid>
+                <title>À quoi va ressembler le futur régime universel de répartition par points</title>
+                <link>https://www.lefigaro.fr/retraite/a-quoi-va-ressembler-le-futur-regime-universel-de-repartition-par-points-20191211</link>
+                <description>DÉCRYPTAGE - Mesure par mesure, Le Figaro passe en revue les changements du système qui remplacera à partir de 2025 les 42 régimes actuels.</description>
+                <category>Retraite</category>
+                <pubDate>Thu, 12 Dec 2019 18:42:29 +0100</pubDate>
+                <author>Marie-Cécile Renault</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/retraites-la-france-se-prepare-a-un-jeudi-noir-reconductible-20191203</guid>
+                <title>Grève du 5 décembre: la France se prépare à un «jeudi noir»... reconductible</title>
+                <link>https://www.lefigaro.fr/retraite/retraites-la-france-se-prepare-a-un-jeudi-noir-reconductible-20191203</link>
+                <description>Les organisations syndicales appellent à une mobilisation contre la réforme des retraites, qui s’annonce très suivie.</description>
+                <category>Retraite</category>
+                <pubDate>Thu, 05 Dec 2019 13:52:14 +0100</pubDate>
+                <author>Marc Landré</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/reforme-des-retraites-chute-de-pension-en-vue-pour-les-meres-de-famille-20191126</guid>
+                <title>Réforme des retraites: chute de pension en vue pour les mères de famille</title>
+                <link>https://www.lefigaro.fr/retraite/reforme-des-retraites-chute-de-pension-en-vue-pour-les-meres-de-famille-20191126</link>
+                <description>EXCLUSIF - L’exécutif présente la réforme des retraites comme favorable aux femmes. Mais une étude inédite démontre avec force le contraire.</description>
+                <category>Retraite</category>
+                <pubDate>Tue, 26 Nov 2019 21:38:44 +0100</pubDate>
+                <author>Marie-Cécile Renault</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/comment-gerer-son-plan-d-epargne-retraite-20191120</guid>
+                <title>Comment gérer son plan d’épargne retraite?</title>
+                <link>https://www.lefigaro.fr/retraite/comment-gerer-son-plan-d-epargne-retraite-20191120</link>
+                <description>NOS CONSEILS - Le souscripteur bénéficie, par défaut, de trois modes de gestion pilotée sous les appellations «prudente», «équilibre» et «dynamique».</description>
+                <category>Retraite</category>
+                <pubDate>Wed, 20 Nov 2019 06:00:56 +0100</pubDate>
+                <author>Eric Leroux</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/retraites-le-medef-plaide-de-nouveau-pour-un-age-pivot-20191119</guid>
+                <title>Retraites: le Medef plaide de nouveau pour un «âge pivot»</title>
+                <link>https://www.lefigaro.fr/retraite/retraites-le-medef-plaide-de-nouveau-pour-un-age-pivot-20191119</link>
+                <description>Geoffroy Roux de Bézieux réaffirme qu’«il faut faire une réforme d’équilibre avant de faire une réforme d’équité».</description>
+                <category>Retraite</category>
+                <pubDate>Tue, 19 Nov 2019 18:55:11 +0100</pubDate>
+                <author>Marie Visot</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/retraite-les-nouvelles-previsions-du-cor-mettent-philippe-face-a-ses-responsabilites-20191118</guid>
+                <title>Retraite: les nouvelles prévisions du COR mettent Philippe face à ses responsabilités</title>
+                <link>https://www.lefigaro.fr/retraite/retraite-les-nouvelles-previsions-du-cor-mettent-philippe-face-a-ses-responsabilites-20191118</link>
+                <description>La confirmation d’un déficit du système en 2025, entre 7,9 et 17,2 milliards, met le gouvernement sous pression.</description>
+                <category>Retraite</category>
+                <pubDate>Tue, 19 Nov 2019 16:35:08 +0100</pubDate>
+                <author>Marc Landré</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/les-retraites-complementaires-du-prive-revalorisees-20191101</guid>
+                <title>Les retraites complémentaires du privé revalorisées</title>
+                <link>https://www.lefigaro.fr/retraite/les-retraites-complementaires-du-prive-revalorisees-20191101</link>
+                <description>Elles augmentent de 1% ce mois-ci.</description>
+                <category>Retraite</category>
+                <pubDate>Sat, 02 Nov 2019 09:41:08 +0100</pubDate>
+                <author>Marie-Cécile Renault</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/retraites-les-limites-du-en-meme-temps-de-macron-20191028</guid>
+                <title>Retraites: les limites du «en même temps» de Macron</title>
+                <link>https://www.lefigaro.fr/retraite/retraites-les-limites-du-en-meme-temps-de-macron-20191028</link>
+                <description>DÉCRYPTAGE - Les difficultés quant à la mise en place du futur régime universel font poindre une belle usine à gaz.</description>
+                <category>Retraite</category>
+                <pubDate>Tue, 29 Oct 2019 14:45:12 +0100</pubDate>
+                <author>Marc Landré</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/est-il-toujours-rentable-de-racheter-des-trimestres-de-retraite-20191025</guid>
+                <title>Est-il toujours rentable de racheter des trimestres de retraite?</title>
+                <link>https://www.lefigaro.fr/retraite/est-il-toujours-rentable-de-racheter-des-trimestres-de-retraite-20191025</link>
+                <description>NOS CONSEILS - Cette option peut, selon les cas, s’avérer pertinente... ou non. Les clés pour comprendre.</description>
+                <category>Retraite</category>
+                <pubDate>Sat, 02 Nov 2019 09:21:25 +0100</pubDate>
+                <author>Nathalie Cheysson-Kaplan</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/retraite-le-grand-chantier-point-par-point-20191018</guid>
+                <title>Retraite: le grand chantier point par point</title>
+                <link>https://www.lefigaro.fr/retraite/retraite-le-grand-chantier-point-par-point-20191018</link>
+                <description>Certains éléments de la réforme des retraites envisagée par le gouvernement peuvent changer la donne pour beaucoup de Français. Revue de détail.</description>
+                <category>Retraite</category>
+                <pubDate>Fri, 18 Oct 2019 07:00:46 +0200</pubDate>
+                <author>Eric Leroux</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/retraite-supplementaire-faut-il-investir-dans-le-per-20191018</guid>
+                <title>Retraite supplémentaire: faut-il investir dans le PER?</title>
+                <link>https://www.lefigaro.fr/retraite/retraite-supplementaire-faut-il-investir-dans-le-per-20191018</link>
+                <description>Lancé le 1er octobre, le plan d’épargne retraite (PER) permet de se constituer un complément de retraite par capitalisation avec plus de souplesse qu’auparavant.</description>
+                <category>Retraite</category>
+                <pubDate>Fri, 18 Oct 2019 07:00:39 +0200</pubDate>
+                <author>Eric Leroux, Nathalie Cheysson-Kaplan</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/reforme-des-retraites-on-va-dans-le-mur-20191018</guid>
+                <title>Réforme des retraites: «On va dans le mur»</title>
+                <link>https://www.lefigaro.fr/retraite/reforme-des-retraites-on-va-dans-le-mur-20191018</link>
+                <description>INTERVIEW - Avocat fiscaliste et président de l’Iref*, Jean-Philippe Delsol dénonce l’excessive centralisation du futur régime universel de retraite à points.</description>
+                <category>Retraite</category>
+                <pubDate>Fri, 18 Oct 2019 06:00:55 +0200</pubDate>
+                <author>Ghislain de Montalembert</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/qui-seront-les-perdants-de-la-reforme-des-retraites-20191018</guid>
+                <title>Qui seront les perdants de la réforme des retraites?</title>
+                <link>https://www.lefigaro.fr/retraite/qui-seront-les-perdants-de-la-reforme-des-retraites-20191018</link>
+                <description>La réforme des retraites a commencé. Tout va changer, ou presque, et les Français s’inquiètent. Grâce à nos simulations, découvrez quelles seront les conséquences de ce grand chambardement.</description>
+                <category>Retraite</category>
+                <pubDate>Sun, 20 Oct 2019 17:23:13 +0200</pubDate>
+                <author>Ghislain de Montalembert</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/seniors-ce-qu-il-faut-savoir-pour-travailler-a-la-retraite-20191017</guid>
+                <title>Seniors: ce qu’il faut savoir pour travailler à la retraite</title>
+                <link>https://www.lefigaro.fr/retraite/seniors-ce-qu-il-faut-savoir-pour-travailler-a-la-retraite-20191017</link>
+                <description>NOS CONSEILS - Poursuivre une activité professionnelle au-delà de l’âge fatidique de la retraite est le rêve de beaucoup. Mais gare au choix de son statut.</description>
+                <category>Retraite</category>
+                <pubDate>Fri, 01 Nov 2019 20:14:30 +0100</pubDate>
+                <author>Eric Leroux</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/reforme-des-retraites-quatre-points-cruciaux-a-trancher-pour-changer-de-systeme-20191017</guid>
+                <title>Réforme des retraites: quatre points cruciaux à trancher pour changer de système</title>
+                <link>https://www.lefigaro.fr/retraite/reforme-des-retraites-quatre-points-cruciaux-a-trancher-pour-changer-de-systeme-20191017</link>
+                <description>Quels seront les mécanismes mis en œuvre pour assurer la transition vers le nouveau système de retraites? Plusieurs points essentiels doivent être examinés lors de la concertation en cours.</description>
+                <category>Retraite</category>
+                <pubDate>Thu, 17 Oct 2019 19:27:44 +0200</pubDate>
+                <author>Marie-Cécile Renault</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/retraites-une-reforme-pour-les-seuls-nouveaux-entrants-du-jamais-vu-20191017</guid>
+                <title>Retraites: une réforme pour les seuls nouveaux entrants, du jamais vu…</title>
+                <link>https://www.lefigaro.fr/retraite/retraites-une-reforme-pour-les-seuls-nouveaux-entrants-du-jamais-vu-20191017</link>
+                <description>ANALYSE - Jamais une réforme des retraites ne s’est limitée, depuis trente ans, aux seules générations futures.</description>
+                <category>Retraite</category>
+                <pubDate>Thu, 17 Oct 2019 18:23:13 +0200</pubDate>
+                <author>Marc Landré</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/retraites-la-concertation-rentre-dans-le-dur-20191017</guid>
+                <title>Retraites: la concertation rentre dans le dur</title>
+                <link>https://www.lefigaro.fr/retraite/retraites-la-concertation-rentre-dans-le-dur-20191017</link>
+                <description>Plusieurs hypothèses, notamment sur la date d’entrée en vigueur du système universel, font l’objet d’interprétations diverses.</description>
+                <category>Retraite</category>
+                <pubDate>Fri, 18 Oct 2019 06:15:58 +0200</pubDate>
+                <author>Marie-Cécile Renault</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/retraites-avocats-medecins-et-pilotes-menacent-de-faire-greve-le-3-fevrier-2020-20191011</guid>
+                <title>Retraites: avocats, médecins et pilotes menacent de faire grève le 3 février 2020</title>
+                <link>https://www.lefigaro.fr/retraite/retraites-avocats-medecins-et-pilotes-menacent-de-faire-greve-le-3-fevrier-2020-20191011</link>
+                <description>Confortées par la mobilisation réussie du 16 septembre à Paris, les professions libérales font pression sur le gouvernement.</description>
+                <category>Retraite</category>
+                <pubDate>Fri, 11 Oct 2019 17:53:19 +0200</pubDate>
+                <author>Anne-Hélène Pommier</author>
+            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/retraite/alerte-sur-les-retraites-des-meres-de-famille-20191009</guid>
+                <title>Alerte sur les retraites des mères de famille</title>
+                <link>https://www.lefigaro.fr/retraite/alerte-sur-les-retraites-des-meres-de-famille-20191009</link>
+                <description>EXCLUSIF - La réforme Delevoye pourrait remettre en question les trimestres accordés aux femmes ayant élevé des enfants.</description>
+                <category>Retraite</category>
+                <pubDate>Thu, 10 Oct 2019 07:11:25 +0200</pubDate>
+                <author>Marie-Cécile Renault</author>
+            </item>
+            </channel>
+</rss>

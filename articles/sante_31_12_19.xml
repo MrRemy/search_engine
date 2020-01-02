@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_sante.xml" rel="self" type="application/rss+xml"/>
+        <category>Santé</category>
+        <title>Le Figaro - Santé : Actualité scientifique et médicale, médecine, santé, écologie</title>
+        <description>Santé : Retrouvez toute l&#039;actualité des sciences et de la médecine, santé, écologie et sciences humaines sur Le Figaro</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Mon, 30 Dec 2019 19:09:39 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <ttl>1</ttl>
+        <image>
+            <title>Le Figaro - Santé : Actualité scientifique et médicale, médecine, santé, écologie</title>
+            <url>http://a.f1g.fr/assets-img/i/f/m150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Santé : Retrouvez toute l&#039;actualité des sciences et de la médecine, santé, écologie et sciences humaines sur Le Figaro</description>
+        </image>
+
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/accidents-medicaux-les-autorites-ont-recense-820-cas-en-2018/</guid>
+                <title>Accidents médicaux: les autorités ont recensé 820 cas en 2018</title>
+                <link>http://sante.lefigaro.fr/article/accidents-medicaux-les-autorites-ont-recense-820-cas-en-2018/</link>
+                <description>Depuis 2017, les professionnels de santé ont l’obligation de déclarer les événements indésirables graves liés aux soins. Mais ils sont encore peu nombreux à avoir ce réflexe.</description>
+                <category>Santé publique</category>
+                <pubDate>Mon, 30 Dec 2019 19:09:39 +0100</pubDate>
+                <author>Margot Brunet</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/mois-sans-alcool-le-defi-de-janvier-suscite-la-polemique/</guid>
+                <title>Mois sans alcool: le défi de janvier suscite la polémique</title>
+                <link>http://sante.lefigaro.fr/article/mois-sans-alcool-le-defi-de-janvier-suscite-la-polemique/</link>
+                <description>Ne pas boire d’alcool pendant un mois après les fêtes de fin d’année, c’est le défi lancé par une trentaine d’associations de santé.</description>
+                <category>Santé publique</category>
+                <pubDate>Mon, 30 Dec 2019 18:32:50 +0100</pubDate>
+                <author>AFP agence, Le figaro.fr</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/homeopathie-a-partir-de-mercredi-les-granules-seront-moins-bien-rembourses/</guid>
+                <title>Homéopathie: à partir de mercredi, les granules seront moins bien remboursés</title>
+                <link>http://sante.lefigaro.fr/article/homeopathie-a-partir-de-mercredi-les-granules-seront-moins-bien-rembourses/</link>
+                <description>À compter du 1er janvier, les produits homéopathiques ne seront plus remboursés qu’à hauteur de 15%, au lieu de 30%, prélude à un déremboursement total en 2021.</description>
+                <category>Santé publique</category>
+                <pubDate>Tue, 31 Dec 2019 10:48:27 +0100</pubDate>
+                <author>Le figaro.fr, AFP agence</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/8-francais-sur-10-prendront-de-bonnes-resolutions-pour-leur-sante-en-2020/</guid>
+                <title>8 Français sur 10 prendront de bonnes résolutions pour leur santé en 2020</title>
+                <link>http://sante.lefigaro.fr/article/8-francais-sur-10-prendront-de-bonnes-resolutions-pour-leur-sante-en-2020/</link>
+                <description>Faire du sport, perdre du poids ou arrêter de fumer: ce sont dans l’ordre les bonnes résolutions que prendront les Français en 2020, selon un sondage Odoxa.</description>
+                <category>Santé publique</category>
+                <pubDate>Mon, 30 Dec 2019 11:38:45 +0100</pubDate>
+                <author>Margot Brunet</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/deces-lies-a-l-e-cigarette-aux-etats-unis-des-liquides-frelates-seraient-en-cause/</guid>
+                <title>États-Unis: plus de 50 décès liés à l’e-cigarette, des liquides frelatés mis en cause</title>
+                <link>http://sante.lefigaro.fr/article/deces-lies-a-l-e-cigarette-aux-etats-unis-des-liquides-frelates-seraient-en-cause/</link>
+                <description>Plus de 2500 vapoteurs américains ont été hospitalisés depuis juin. Un produit de substitution frauduleux, l’acétate de vitamine E, pourrait être à l’origine de cette épidémie.</description>
+                <category>Santé publique</category>
+                <pubDate>Tue, 24 Dec 2019 11:44:49 +0100</pubDate>
+                <author>Cécile Thibert</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/tabac-les-cinq-mauvaises-excuses-des-fumeurs-pour-ne-pas-arreter/</guid>
+                <title>Tabac: les cinq mauvaises excuses des fumeurs pour ne pas arrêter</title>
+                <link>http://sante.lefigaro.fr/article/tabac-les-cinq-mauvaises-excuses-des-fumeurs-pour-ne-pas-arreter/</link>
+                <description>Contrairement aux idées reçues, arrêter de fumer procure des bénéfices immédiats importants à tout âge. Il n’est donc jamais trop tard pour renoncer à la cigarette.</description>
+                <category>Santé publique</category>
+                <pubDate>Mon, 23 Dec 2019 18:25:55 +0100</pubDate>
+                <author>Margot Brunet</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/papillomavirus-7-raisons-de-vacciner-aussi-les-garcons/</guid>
+                <title>Papillomavirus: 7 raisons de vacciner aussi les garçons</title>
+                <link>http://sante.lefigaro.fr/article/papillomavirus-7-raisons-de-vacciner-aussi-les-garcons/</link>
+                <description>À compter de l’été 2020, ce vaccin sera aussi recommandé aux garçons. Le Figaro a interrogé deux spécialistes pour en comprendre les raisons.</description>
+                <category>Santé publique</category>
+                <pubDate>Tue, 24 Dec 2019 11:57:49 +0100</pubDate>
+                <author>Margot Brunet</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/sexualite-pas-de-retraite-pour-les-baby-boomers/</guid>
+                <title>Sexualité: pas de retraite pour les baby-boomers</title>
+                <link>http://sante.lefigaro.fr/article/sexualite-pas-de-retraite-pour-les-baby-boomers/</link>
+                <description>Avec les baby-boomers, le tabou de la sexualité des seniors pourrait bientôt sauter.</description>
+                <category>Sexualité</category>
+                <pubDate>Fri, 20 Dec 2019 17:39:24 +0100</pubDate>
+                <author>Damien Mascret</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/peut-on-avoir-des-relations-sexuelles-en-cas-d-herpes-genital/</guid>
+                <title>Peut-on avoir des relations sexuelles en cas d’herpès génital?</title>
+                <link>http://sante.lefigaro.fr/article/peut-on-avoir-des-relations-sexuelles-en-cas-d-herpes-genital/</link>
+                <description>Bien qu’elle soit sexuellement transmissible, cette infection due à un virus n’implique pas qu’il faille renoncer à sa sexualité.</description>
+                <category>Forme et bien être</category>
+                <pubDate>Fri, 20 Dec 2019 17:11:01 +0100</pubDate>
+                <author>Margot Brunet</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/predire-l-evolution-de-la-maladie-d-alzheimer-quand-l-intelligence-artificielle-ouvre-la-voie-a-une-medecine-personnalisee/</guid>
+                <title>Prédire l’évolution de la maladie d’Alzheimer: quand l’intelligence artificielle ouvre la voie à une médecine personnalisée</title>
+                <link>http://sante.lefigaro.fr/article/predire-l-evolution-de-la-maladie-d-alzheimer-quand-l-intelligence-artificielle-ouvre-la-voie-a-une-medecine-personnalisee/</link>
+                <description>EN PARTENARIAT AVEC L&#039;INSTITUT DU CERVEAU ET DE LA MOELLE ÉPINIÈRE - A travers le projet Dynamo (DYNAmic Models), les équipes de l’Institut du Cerveau et de la Moelle épinière cherchent à créer un modèle numérique de l’évolution du cerveau au cours de la maladie d’Alzheimer, avec l’ambition d’obtenir à terme un outil de médecine prédictive de précision. De premiers résultats voient actuellement le jour: les chercheurs sont désormais capables de prédire de façon fiable l’évolution de la maladie de chaque patient sur 4 ans.</description>
+                <category>Santé publique</category>
+                <pubDate>Fri, 20 Dec 2019 14:53:32 +0100</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/les-medecins-tres-critiques-envers-une-etude-alarmiste-sur-la-e-cigarette/</guid>
+                <title>Les médecins très critiques envers une étude alarmiste sur la e-cigarette</title>
+                <link>http://sante.lefigaro.fr/article/les-medecins-tres-critiques-envers-une-etude-alarmiste-sur-la-e-cigarette/</link>
+                <description>Une étude récente soutient que la cigarette électronique augmente le risque de maladies respiratoires. Mais les vapoteurs étudiés étaient tous... d’anciens fumeurs.</description>
+                <category>Santé publique</category>
+                <pubDate>Fri, 20 Dec 2019 11:29:23 +0100</pubDate>
+                <author>Cécile Thibert</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/des-medecins-anti-homeopathie-juges-pour-non-confraternite-a-paris/</guid>
+                <title>Des médecins anti-homéopathie jugés pour «non-confraternité» à Paris</title>
+                <link>http://sante.lefigaro.fr/article/des-medecins-anti-homeopathie-juges-pour-non-confraternite-a-paris/</link>
+                <description>Presque deux ans après la publication de la «tribune des 124» dans Le Figaro, dix médecins signataires étaient jugés ce mardi par le Conseil de l’Ordre sur une plainte de syndicats d’homéopathes.</description>
+                <category>Santé publique</category>
+                <pubDate>Thu, 19 Dec 2019 16:12:45 +0100</pubDate>
+                <author>Cécile Thibert</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/contraception-non-la-pilule-ne-fait-pas-retrecir-le-cerveau-des-femmes/</guid>
+                <title>Contraception: non, la pilule ne fait pas rétrécir le cerveau des femmes</title>
+                <link>http://sante.lefigaro.fr/article/contraception-non-la-pilule-ne-fait-pas-retrecir-le-cerveau-des-femmes/</link>
+                <description>Une nouvelle étude prétend que les femmes sous pilule auraient une zone du cerveau réduite. Mais gare aux conclusions hâtives.</description>
+                <category>Médecine</category>
+                <pubDate>Tue, 17 Dec 2019 15:23:03 +0100</pubDate>
+                <author>Cécile Thibert</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/six-choses-a-savoir-sur-le-cancer-du-col-de-l-uterus/</guid>
+                <title>Six choses à savoir sur le cancer du col de l’utérus</title>
+                <link>http://sante.lefigaro.fr/article/six-choses-a-savoir-sur-le-cancer-du-col-de-l-uterus/</link>
+                <description>Ce cancer touche près de 3000 femmes chaque année. Le plus souvent invisible, il peut être soigné s’il est dépisté à temps.</description>
+                <category>Médecine</category>
+                <pubDate>Sun, 15 Dec 2019 06:00:08 +0100</pubDate>
+                <author>Stéphany Moquery</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/atherosclerose-comment-savoir-si-nos-arteres-sont-en-mauvaise-sante/</guid>
+                <title>Athérosclérose: comment savoir si nos artères sont en mauvaise santé?</title>
+                <link>http://sante.lefigaro.fr/article/atherosclerose-comment-savoir-si-nos-arteres-sont-en-mauvaise-sante/</link>
+                <description>Ennemi majeur des artères, la présence de plaques graisseuses peut être dépistée avant qu’il ne soit trop tard.</description>
+                <category>Médecine</category>
+                <pubDate>Sun, 15 Dec 2019 17:03:10 +0100</pubDate>
+                <author>Raphaëlle Bartet</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/cancer-comment-vivre-sa-sexualite-malgre-la-maladie/</guid>
+                <title>Cancer: comment vivre sa sexualité malgré la maladie</title>
+                <link>http://sante.lefigaro.fr/article/cancer-comment-vivre-sa-sexualite-malgre-la-maladie/</link>
+                <description>À l’annonce de la maladie, il n’est pas rare que le sentiment de féminité ou de virilité vacille.</description>
+                <category>Sexualité</category>
+                <pubDate>Sat, 14 Dec 2019 06:00:09 +0100</pubDate>
+                <author>Claudine Proust</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/les-espoirs-de-la-therapie-cellulaire-pour-regenerer-le-coeur/</guid>
+                <title>Les espoirs de la thérapie cellulaire pour régénérer le cœur</title>
+                <link>http://sante.lefigaro.fr/article/les-espoirs-de-la-therapie-cellulaire-pour-regenerer-le-coeur/</link>
+                <description>Après un infarctus, le cœur est abîmé. Des chercheurs misent sur l’injection de cellules-souches pour le réparer.</description>
+                <category>Médecine</category>
+                <pubDate>Sat, 14 Dec 2019 06:00:04 +0100</pubDate>
+                <author>Anne Lefèvre-Balleydier</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/l-academie-de-medecine-rassure-sur-la-securite-de-la-cigarette-electronique/</guid>
+                <title>L’Académie de médecine rassure sur la sécurité de la cigarette électronique</title>
+                <link>http://sante.lefigaro.fr/article/l-academie-de-medecine-rassure-sur-la-securite-de-la-cigarette-electronique/</link>
+                <description>L’institution affirme que l’épidémie d’atteintes pulmonaires aux États-Unis ne doit pas remettre en cause cet outil d’aide au sevrage tabagique.</description>
+                <category>Médecine</category>
+                <pubDate>Thu, 12 Dec 2019 18:32:30 +0100</pubDate>
+                <author>AFP agence, Cécile Thibert</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/des-chirurgiens-alertent-sur-les-risques-d-une-operation-des-genoux/</guid>
+                <title>Des chirurgiens alertent sur les risques d’une opération des genoux</title>
+                <link>http://sante.lefigaro.fr/article/des-chirurgiens-alertent-sur-les-risques-d-une-operation-des-genoux/</link>
+                <description>L’ablation des ménisques serait trop souvent pratiquée sans raison. Elle peut conduire à une usure prématurée des genoux.</description>
+                <category>Médecine</category>
+                <pubDate>Thu, 12 Dec 2019 12:26:51 +0100</pubDate>
+                <author>AFP agence, Le figaro.fr</author>
+            </item>
+                    <item>
+                <guid>http://sante.lefigaro.fr/article/lutte-contre-l-obesite-les-8-propositions-chocs-de-la-cour-des-comptes/</guid>
+                <title>Lutte contre l’obésité: les 8 propositions chocs de la Cour des comptes</title>
+                <link>http://sante.lefigaro.fr/article/lutte-contre-l-obesite-les-8-propositions-chocs-de-la-cour-des-comptes/</link>
+                <description>Dans un rapport publié mercredi, les Sages proposent notamment de taxer davantage les produits gras et sucrés et d’interdire certaines publicités.</description>
+                <category>Santé publique</category>
+                <pubDate>Wed, 11 Dec 2019 19:51:51 +0100</pubDate>
+                <author>AFP agence, Le figaro.fr</author>
+            </item>
+            </channel>
+</rss>
